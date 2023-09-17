@@ -55,5 +55,7 @@ Once I have the first 3 sentences complete, it was more just a substitution proc
 
 ## The Substitutions - Monoalphabetic Substitution
 **A	B	C	D	E	F	G	H	I	J	K	L	M N	O	P	Q	R	S	T	U	V	W	X	Y	Z**
+
   B	K	F	L	M	N	O	P	H	Q	R	S	A C	T	I	U	G	E	_	D	V	W	X	Y	_
+
 *T* and *Z* did not appear in the cipher text at all and therefore, no exact substitution could be made for these 2 letters.
