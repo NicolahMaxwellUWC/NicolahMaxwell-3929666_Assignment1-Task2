@@ -10,6 +10,7 @@ The EncryptDecrypt application is an Android specific app that allows a user to 
 1. What this Application Does
 : EncrypDecrypt was built using the [MIT App Inventor](https://appinventor.mit.edu/) platform. It provides its users with 2 functionality options, the option to encrypt a plaintext extract, and the option to decrypt a ciphertext extract. The method of encryption that this application uses is the *Monoalphabetic Substitution Method* which uses the 26 letters in the English alphabet, and substitutes it with a letter other than itself. 
 - The following shows the respective substitutions used to encrypt plaintext and decrypt ciphertext
+
 **A	B	C	D	E	F	G	H	I	J	K	L	M N	O	P	Q	R	S	T	U	V	W	X	Y	Z**
   B	K	F	L	M	N	O	P	H	Q	R	S	A C	T	I	U	G	E	_	D	V	W	X	Y	_
 *T* and *Z* did not appear in the cipher text at all and therefore, no exact substitution could be made for these 2 letters.
